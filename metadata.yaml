@@ -1,0 +1,34 @@
+_repo: Eksyksissa_52554
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Davidsson, Fanny
+    alias: Davidson, Fanny
+    gutenberg_agent_id: '46921'
+    url: http://www.gutenberg.org/2009/agents/46921
+creator:
+  author:
+    agent_name: Geijerstam, Gustaf af
+    aliases:
+    - Af Geijerstam, Gustaf
+    - Geijerstam, Gustav
+    birthdate: 1858
+    deathdate: 1909
+    gutenberg_agent_id: '33352'
+    url: http://www.gutenberg.org/2009/agents/33352
+    wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
+description: ''
+gutenberg_issued: '2016-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52554'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Eksyksissä
+url: http://www.gutenberg.org/ebooks/52554
