@@ -1,11 +1,14 @@
 _repo: Eksyksissa_52554
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Davidsson, Fanny
     alias: Davidson, Fanny
     gutenberg_agent_id: '46921'
     url: http://www.gutenberg.org/2009/agents/46921
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Geijerstam, Gustaf af
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33352
     wikipedia: http://sv.wikipedia.org/wiki/Gustaf_af_Geijerstam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52554#Eksyksissa
 gutenberg_issued: '2016-07-11'
 gutenberg_type: Text
 identifiers:
